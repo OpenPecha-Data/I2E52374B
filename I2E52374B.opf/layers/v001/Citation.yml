@@ -1,11 +1,11 @@
-id: 5f7142c02e5c4b5a9f099dd39365a0a1
+id: df909c2bad314d7b9096b1f64af809d5
 annotation_type: Citation
 revision: '00001'
 annotations:
-  0b861a3fd29e4a6d8fb45df5389f8c2c:
+  15fd6c69f9f54812bf148fd4fcdb7520:
     span:
       start: 783
       end: 966
     isverse: true
 local_ids:
-  0b861a3fd29e4a6d8fb45df5389f8c2c: 200000
+  15fd6c69f9f54812bf148fd4fcdb7520: 200000
